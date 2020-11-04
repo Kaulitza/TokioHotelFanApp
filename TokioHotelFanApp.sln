@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokioHotelFanApp", "TokioHotelFanApp.csproj", "{4F56E681-664E-4046-A44F-C66E22F65599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F56E681-664E-4046-A44F-C66E22F65599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F56E681-664E-4046-A44F-C66E22F65599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F56E681-664E-4046-A44F-C66E22F65599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F56E681-664E-4046-A44F-C66E22F65599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5388BED6-2DBC-42CF-95C7-AB7B1543CD44}
+	EndGlobalSection
+EndGlobal
